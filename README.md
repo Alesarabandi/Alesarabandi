@@ -7,6 +7,8 @@ Prediction Using Machine Learning
 -
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,mysql,matlab,latex,gcp,docker,azure,aws,atom,vscode figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,matlab,latex,gcp,docker,azure,aws,atom,vscode, excel figma&theme=light" />
   </a>
 </p>
+<p align="center">
+and PowerBi, Tableau, ...
